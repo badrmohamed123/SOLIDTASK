@@ -1,0 +1,6 @@
+@SOLIDTASK_HostAddress = http://localhost:5202
+
+GET {{SOLIDTASK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
